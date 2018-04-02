@@ -34,8 +34,7 @@
 }
 
 .news-section__content__excerpt {
-  padding-top: 5px;
-  padding-bottom: 
+  padding: 5px 0 0;
 }
 
 .news-section__content__title {
